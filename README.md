@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-boccalandro-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-boccalandro-developer/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">ABOUT ME:</h3>:
+<h3 align="left">ABOUT ME:</h3>
 Currently, I enjoy making scalable, modularized codes, and I find it interesting to share ideas 💡, to build with teams from the exciting world of programming!
 
 I consider myself someone who accepts challenges 💪, who accompanies the team, who pushes projects forward. In addition to being curious about the code, I have the ability to solve problems, and I have both the willingness to learn from others ✍️, and the willingness to teach when I have the opportunity to share knowledge.
