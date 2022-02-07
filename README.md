@@ -12,12 +12,12 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-boccalandro-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-boccalandro-developer/" height="30" width="40" /></a>
 </p>
 
-##ABOUT ME:
+<h3 align="left">ABOUT ME:</h3>:
 Currently, I enjoy making scalable, modularized codes, and I find it interesting to share ideas 💡, to build with teams from the exciting world of programming!
 
 I consider myself someone who accepts challenges 💪, who accompanies the team, who pushes projects forward. In addition to being curious about the code, I have the ability to solve problems, and I have both the willingness to learn from others ✍️, and the willingness to teach when I have the opportunity to share knowledge.
 
-##MY STORY:
+<h3 align="left">STORY TIME:</h3>
 I started my first working years in collection 📈 (administrative). When I rediscovered my strong interest in technology (when I left high school I was going to dedicate myself to programming and I left it because I didn't have a computer 😰). I had the recent opportunity to redirect my professional path and resume my dreams to belong to the IT world!!! 🚀:
 In September 2021, I decided to take a risk and dive right in without looking back. 🔥 I quit my job and signed up for a 4-month full-time Coding Bootcamp 🔥🔥🔥.
 
