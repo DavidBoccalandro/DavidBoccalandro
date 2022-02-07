@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidboccalandro&label=Profile%20views&color=0e75b6&style=flat" alt="davidboccalandro" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidboccalandro" alt="davidboccalandro" /></a> </p>
-
 - 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **davidboccalandro@hotmail.com**
 
-- ⚡ Fun fact **I like to play bass**
+- ⚡ Fun fact: **I like to play the bass**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
