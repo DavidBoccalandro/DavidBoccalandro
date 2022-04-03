@@ -3,9 +3,11 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
+- 👨‍💻 All of my projects are available at [https://davidboccalandro.netlify.app/](https://davidboccalandro.netlify.app/)
+
 - 📫 How to reach me **davidboccalandro@hotmail.com**
 
-- ⚡ Fun fact: **I like to play the bass**
+- ⚡ Fun fact: **I like to play the bass and my cat's name is Oreo because I'm a fan of "Oreo" cookies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
