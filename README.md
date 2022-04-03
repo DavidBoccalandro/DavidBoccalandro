@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate fullstack developer from Argentina</h3>
+<h3 align="center">A passionate fullstack web developer from Argentina</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript, Angular, and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://davidboccalandro.netlify.app/](https://davidboccalandro.netlify.app/)
+- 👨‍💻 All of my projects are available at my portfolio: [https://davidboccalandro.netlify.app/](https://davidboccalandro.netlify.app/)
 
 - 📫 How to reach me **davidboccalandro@hotmail.com**
 
-- ⚡ Fun fact: **I like to play the bass and my cat's name is Oreo because I'm a fan of "Oreo" cookies.**
+- ⚡ Fun facts: **I like to play the bass and my cat's name is Oreo because I'm a fan of "Oreo" cookies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
