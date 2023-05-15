@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate Front End Developer from Argentina</h3>
+<h3 align="center">A passionate Front End - FullStack Developer from Argentina</h3>
 
-- 🌱 I’m currently learning **TypeScript and Angular **
+- 🌱 I'm perfecting myself in **Angular and React**
 
 - 👨‍💻 All of my projects are available at my portfolio: [https://davidboccalandro.netlify.app/](https://davidboccalandro.netlify.app/)
 
 - 📫 How to reach me **davidboccalandro@hotmail.com**
 
-- ⚡ Fun facts: **I like to play the bass and my cat's name is Oreo because I'm a fan of "Oreo" cookies.**
+- ⚡ Fun facts: **My cat's name is Oreo because I'm a fan of "Oreo" cookies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,14 +15,18 @@
 </p>
 
 <h3 align="left">ABOUT ME:</h3>
-Currently, I am working on one of the great place to code: Applaudo Studios as Angular Developer. I enjoy making scalable, modularized codes, and I find it interesting to share ideas 💡, to build with teams from the exciting world of programming!
+Passionate programmer with experience in collections and administration areas, capable of learning quickly and adapting to new projects and tools. Transferable skills include organization and effective communication. I take pride in working as a team and leading to achieve common goals. I am always seeking opportunities to collaborate on innovative projects that drive the success of the company.
 
-I consider myself someone who accepts challenges 💪, who accompanies the team, who pushes projects forward. In addition to being curious about the code, I have the ability to solve problems, and I have both the willingness to learn from others ✍️, and the willingness to teach when I have the opportunity to share knowledge.
+<details>
+  <summary><h3 align="left">STORY TIME:</h3></summary>
+  I embarked on my professional journey in the world of collection 📈 (administrative work), but destiny had a different plan for me. A spark of passion for technology, which I had once put aside due to circumstances beyond my control, resurfaced with an irresistible force. 💥 The moment I left high school, I had envisioned a future in programming, but alas, the lack of a computer stood as an insurmountable obstacle. 😰 However, fate granted me a second chance to chase my dreams and carve my path in the exhilarating realm of IT! 🚀
 
-<h3 align="left">STORY TIME:</h3>
-I started my first working years in collection 📈 (administrative). When I rediscovered my strong interest in technology (when I left high school I was going to dedicate myself to programming and I left it because I didn't have a computer 😰). I had the recent opportunity to redirect my professional path and resume my dreams to belong to the IT world!!! 🚀:
-In September 2021, I decided to take a risk and dive right in without looking back. 🔥 I quit my job and signed up for a 4-month full-time Coding Bootcamp 🔥🔥🔥.
-Now I'm part of Applaudo Studios with clients like Miami Heats, NBC, Fox.
+  In September 2021, fueled by determination and a thirst for knowledge, I took a leap of faith. I bid farewell to my comfortable job and fearlessly dived headfirst into a transformative 4-month, full-time Coding Bootcamp. 🔥🔥🔥
+
+  Today, each line of code, I thrive in the face of challenges, bringing to life imaginative solutions and crafting immersive user experiences. I am relentless in my pursuit of excellence, constantly sharpening my technical prowess to stay at the forefront of the ever-evolving technological landscape. 💻
+
+  The story of my evolution from a collection professional to an integral part of the dynamic IT industry is a testament to my unwavering determination, adaptability, and insatiable hunger for growth. I am eager to embark on new adventures, work alongside talented individuals, and leave an indelible mark on the future of technology. 🌟
+</details>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
