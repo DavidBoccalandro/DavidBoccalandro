@@ -3,16 +3,9 @@
 
 - 🌱 I'm perfecting myself in **Angular and React**
 
-- 👨‍💻 All of my projects are available at my portfolio: [https://davidboccalandro.netlify.app/](https://davidboccalandro.netlify.app/)
-
 - 📫 How to reach me **davidboccalandro@hotmail.com**
 
 - ⚡ Fun facts: **My cat's name is Oreo because I'm a fan of "Oreo" cookies.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-boccalandro-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-boccalandro-developer/" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">ABOUT ME:</h3>
 Passionate programmer with experience in collections and administration areas, capable of learning quickly and adapting to new projects and tools. Transferable skills include organization and effective communication. I take pride in working as a team and leading to achieve common goals. I am always seeking opportunities to collaborate on innovative projects that drive the success of the company.
