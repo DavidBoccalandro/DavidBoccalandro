@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm David Boccalandro</h1>
-<h3 align="center">Frontend Developer | Angular & React Specialist | Product-Driven Engineer from Argentina</h3>
+<h3 align="center">Programmer | Frontend Developer | Angular Specialist | Product-Driven Engineer from Argentina</h3>
 
 <p align="center">
-🚀 14+ years in tech · Web-focused since 2021 · 18+ real-world projects · 300+ students mentored
+🚀 14+ years in tech · Web-focused since 2021 · 19+ real-world projects · 300+ students mentored
 </p>
 
 ---
@@ -20,17 +20,17 @@ Currently contributing to both public-sector platforms and startup growth, I'm n
 ### 🛠️ Tech Stack
 
 **Languages:** JavaScript, TypeScript  
-**Frontend:** Angular (8–19), React, RxJS, NgRx, Signals, Tailwind, SCSS, PrimeNG, Material, i18n, A11y  
+**Frontend:** Angular (7–20), React, RxJS, NgRx, Signals, Tailwind, SCSS, PrimeNG, Material, i18n, A11y  
 **Backend:** Node.js, NestJS, Express, Supabase, PostgreSQL, MongoDB  
 **DevOps & Tools:** Git, GitHub, GitLab, Bitbucket, Docker, Netlify, Vercel, Postman  
-**Other:** Storybook, IndexedDB, Webhooks (Stripe, MercadoPago), CI/CD basics  
+**Other:** Storybook, Webhooks (Stripe, MercadoPago), CI/CD basics
 
 ---
 
 ### 📍 Current Roles
 
-- **Frontend Developer** @ **Applaudo** — Core platforms for the Government of El Salvador  
-- **Principal Frontend Developer** @ **Mentify** — Bootstrapped and scaled a complex SaaS as sole frontend  
+- **Frontend Developer** @ **Banhaia** - Building and extending the Ninox•Net Network Management System
+- **Principal Frontend Developer** @ **Mentify** - Bootstrapped and scaled a complex SaaS as sole frontend  
 
 ---
 
@@ -40,6 +40,8 @@ Currently contributing to both public-sector platforms and startup growth, I'm n
 - 🧱 Co-designed internal SDKs and shared UI libraries for government platforms  
 - 🌎 Strong focus on DX, performance, accessibility, and maintainability  
 - 🧑‍🏫 Mentored 300+ devs in fullstack bootcamps (React, Node, Sequelize, etc.)
+- 🎨 Led migration of enterprise apps to NgZorro, standardizing components and improving consistency
+- 🏷️ Designed and implemented a white-label system, enabling customizable branding for multi-tenant clients
 
 ---
 
