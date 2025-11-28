@@ -2,7 +2,7 @@
 <h3 align="center">Programmer | Frontend Developer | Angular Specialist | Product-Driven Engineer from Argentina</h3>
 
 <p align="center">
-🚀 14+ years in tech · Web-focused since 2021 · 19+ real-world projects · 300+ students mentored
+🚀 14+ years in tech · Web-focused since 2021 · 20+ real-world projects · 300+ students mentored
 </p>
 
 ---
@@ -13,24 +13,23 @@ I'm a passionate frontend developer with a strong focus on scalable web applicat
 
 My proudest achievement: I launched a multi-app SaaS in just 7 months, succeeding where four years of previous attempts had failed.
 
-Currently driving the growth of complex SaaS platforms and enterprise systems, with a strong emphasis on clean architecture, performance, and user experience.
+Currently driving the growth of complex SaaS platforms and enterprise systems, with a strong emphasis on performance, UX quality and easy-to-change structures.
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages:** JavaScript, TypeScript  
-**Frontend:** Angular (7–20), React, RxJS, NgRx, Signals, Tailwind, SCSS, PrimeNG, Material, Nebular, NgZorro (Ant), Lucide, i18n, A11y
-**Backend:** Node.js, NestJS, Express, Supabase, PostgreSQL, MongoDB  
-**DevOps & Tools:** Git, GitHub, GitLab, Bitbucket, Docker, Netlify, Vercel, Postman  
-**Other:** Storybook, Webhooks (Stripe, MercadoPago), CI/CD basics
+**Frontend:** Angular (7–21), React, RxJS, NgRx, Signals, Tailwind, SCSS, PrimeNG, Material, Nebular, NgZorro (Ant), Lucide, i18n, A11y
+**Backend:** Node.js, NestJS, Express, Supabase, PostgreSQL, MongoDB, SQLServer
+**DevOps & Tools:** Git, GitHub, GitLab, Bitbucket, Docker, Netlify, Vercel, Postman, Insomnia, Hoppscotch
+**Other:** Storybook, Webhooks (Stripe, MercadoPago), CI/CD basics, Postmark
 
 ---
 
 ### 📍 Current Roles
 
 - **Frontend Developer** @ **Banhaia** - Building and extending the Ninox•Net Network Management System
-- **Principal Frontend Developer** @ **Mentify** - Bootstrapped and scaled a complex SaaS as sole frontend  
 
 ---
 
